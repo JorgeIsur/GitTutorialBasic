@@ -1,2 +1,0 @@
-# GitTutorialBasic
-Como usar git.
